@@ -49,7 +49,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanth002" width="600" height="300"/>
 </div>
 <div align="left">
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth002&layout=compact&theme=vision-friendly-dark" width="600" height="300"/>
+  <img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)" width="600" height="300"/>
 </div>
-
