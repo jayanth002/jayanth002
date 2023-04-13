@@ -52,7 +52,4 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth002&layout=compact&theme=vision-friendly-dark" width="600" height="300"/>
 </div>
-<div align="left">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayanth002)](https://git.io/streak-stats)
+
