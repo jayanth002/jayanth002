@@ -45,4 +45,6 @@
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=jayanth002
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanth002" width="600" height="300"/>
+</div>
