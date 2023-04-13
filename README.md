@@ -46,5 +46,8 @@
 ### :fire: My Stats :
 
 <div align="left">
-  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jayanth002&theme=dark&background=000000)](https://git.io/streak-stats)" width="600" height="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanth002" width="600" height="300"/>
+</div>
+<div align="left">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayanth002&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
