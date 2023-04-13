@@ -17,9 +17,9 @@
 </div>
 ---
 
-### :man_technologist: About Me : I am a AIOPS/DEVOPS Developer.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### :man_technologist: About Me : Aspiring Research Scientist
+- :telescope: I’m working as a Software Engineer and contributing to AIOPS/DEVOPS Development.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Data Science Research.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve coding puzzles and fitness gym.
